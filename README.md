@@ -1,1 +1,1 @@
-Time series basics
+TIME SERIES BASIC
